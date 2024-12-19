@@ -7,17 +7,17 @@ Technology that use in this project:
 - Javascript
 - React
 
-Default view
+### Default view
 
 
 ![image](https://github.com/user-attachments/assets/2670125d-b96f-4d71-826d-b83968c5bf18)
 
-You can edit and save your name
+### You can edit and save your name
 
 
 https://github.com/user-attachments/assets/cca3930b-bebc-4951-8daf-782e4a72f715
 
-Play with your friends
+### Play with your friends
 
 
 https://github.com/user-attachments/assets/661b552c-dab5-49e7-b06c-d6b01c37fef4
