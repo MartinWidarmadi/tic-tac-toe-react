@@ -26,5 +26,14 @@ https://github.com/user-attachments/assets/661b552c-dab5-49e7-b06c-d6b01c37fef4
 https://github.com/user-attachments/assets/94445c2e-1373-4569-b358-0e98ccc37985
 
 
+***
+## How to install
+---
+1. Clone the repository.
+2. Install node.js
+3. Use your favorite IDE and type `npm install` in your cmd
+4. Happy coding :)
+
+
 
 
