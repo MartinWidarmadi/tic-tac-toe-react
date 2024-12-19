@@ -8,6 +8,8 @@ Technology that use in this project:
 - React
 
 Default view
+
+
 ![image](https://github.com/user-attachments/assets/2670125d-b96f-4d71-826d-b83968c5bf18)
 
 You can edit and save your name
